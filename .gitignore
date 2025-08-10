@@ -4,3 +4,4 @@ script.js
 package.json
 package-lock.json
 .git
+*.blp
